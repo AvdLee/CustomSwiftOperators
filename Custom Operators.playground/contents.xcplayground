@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Custom Prefix'/>
+        <page name='Custom Postfix'/>
+        <page name='Custom Infix'/>
+        <page name='Custom Compound Assignment'/>
+        <page name='Custom Emoji Operators'/>
+    </pages>
+</playground>
